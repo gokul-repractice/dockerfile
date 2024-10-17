@@ -1,2 +1,2 @@
-FROM on:v1
+FROM onbuild:v1
 #Here we are using the image created by Author
